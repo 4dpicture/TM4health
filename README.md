@@ -17,6 +17,8 @@ Follow-up plans: scientific article manuscript on extended and scientifically ve
 
 [poster-Clin2025](https://github.com/aaronlifenghan/TM4health/blob/main/CLIN2025_TM4health.pdf)
 
+[ResearchGate](https://www.researchgate.net/publication/395953309_Analysing_Cancer_Patients'_Experiences_with_Embedding-based_Topic_Modelling)
+
 [private-git](https://github.com/aaronlifenghan/TTM)
 
 # Part of 4D PICTURE project
