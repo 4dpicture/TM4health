@@ -19,7 +19,7 @@ Follow-up plans: scientific article manuscript on extended and scientifically ve
 
 [ResearchGate](https://www.researchgate.net/publication/395953309_Analysing_Cancer_Patients'_Experiences_with_Embedding-based_Topic_Modelling)
 
-[private-git](https://github.com/aaronlifenghan/TTM)
+[private-git](https://github.com/aaronlifenghan/TTM) (request needed)
 
 # Part of 4D PICTURE project
 The [4D PICTURE](https://4dpicture.eu/) https://4dpicture.eu/ "Our aim is to improve the cancer patient journey and ensure personal preferences are respected."
