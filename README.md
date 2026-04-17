@@ -24,7 +24,19 @@ Follow-up plans: scientific article manuscript on extended and scientifically ve
 # Part of 4D PICTURE project
 The [4D PICTURE](https://4dpicture.eu/) https://4dpicture.eu/ "Our aim is to improve the cancer patient journey and ensure personal preferences are respected."
 
-# references
+# references / news
+
+Our paper has been accepted by the CLIN Journal - forthcoming; pre-print available below:
+
+@misc{ionescu2026analyzingcancerpatientsexperiences,
+      title={Analyzing Cancer Patients' Experiences with Embedding-based Topic Modeling and LLMs}, 
+      author={Teodor-Călin Ionescu and Lifeng Han and Jan Heijdra Suasnabar and Anne Stiggelbout and Suzan Verberne},
+      year={2026},
+      eprint={2601.12154},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2601.12154}, 
+}
 
  "Analyzing Cancer Patients' Experiences with Embedding-based Topic Modelling". Teodor-Călin Ionescu, Lifeng Han, Jan Heijdra Suasnabar, Suzan Verberne, Anne Stiggelbout (on behalf of 4D PICTURE). 12 September 2025. The 35th Meeting of Computational Linguistics in The Netherlands. https://clin35.ccl.kuleuven.be
  
